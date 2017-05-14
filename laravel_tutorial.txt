@@ -4,3 +4,16 @@ https://www.youtube.com/watch?v=YgAB3oOtf5g&list=PLzz9vf6075V0D26QoISC0R6Lx1xZDh
 
 Larvel 5.4 Tutorial:
 https://www.youtube.com/watch?v=rMtsGK1UUvM
+
+router folder has a web.php file which has a "route". The route responds to requests from the web. By default it has a route to the welcome page.
+	"return view('welcome');" This points to the "welcome.blade.php" file inside the resources/views folder.
+
+The welcome.blade.php file gets loaded from the view.php file located in the config directory. Inside the view.php there is a "paths" line. This
+tells the browser to load the welcome page.
+	    'paths' => [
+        resource_path('views'),
+    	],
+
+Laravel 5.3 #6 Get Route 2:40 (https://www.youtube.com/watch?v=U_2YqbvrANA&index=6&list=PL3ZhWMazGi9IYymniZgqwnYuPFDvaEHJb).
+http://localhost/~rob/testlaravel/public/users
+
