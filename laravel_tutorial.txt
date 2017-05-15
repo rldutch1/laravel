@@ -17,3 +17,5 @@ tells the browser to load the welcome page.
 Laravel 5.3 #6 Get Route 2:40 (https://www.youtube.com/watch?v=U_2YqbvrANA&index=6&list=PL3ZhWMazGi9IYymniZgqwnYuPFDvaEHJb).
 http://localhost/~rob/testlaravel/public/users
 
+Object Oriented Bootcamp: https://laracasts.com/series/object-oriented-bootcamp-in-php/episodes/1
+
