@@ -19,3 +19,12 @@ http://localhost/~rob/testlaravel/public/users
 
 Object Oriented Bootcamp: https://laracasts.com/series/object-oriented-bootcamp-in-php/episodes/1
 
+Start the webserver for a particular project:
+	Go to the project directory and type: php artisan serve &
+	PID: 11594
+
+You can run the server from the command line:
+	Type: sudo php -S 127.0.0.1:port /Users/rob/Sites/sitename/server.php
+	Example:
+	sudo php -S 127.0.0.1:666 /Users/rob/Sites/blog/server.php
+
